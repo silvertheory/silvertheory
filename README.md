@@ -2,7 +2,7 @@
 
 QA Automation Engineer focused on building reliable test automation using **Python, Selenium, and PyTest**.
 
-I enjoy designing automation that validates real user workflows, improves software quality, and reduces repetitive manual testing.
+I enjoy designing automation that validates real user workflows, improving software quality, and reducing repetitive manual testing.
 
 ---
 
