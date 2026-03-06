@@ -47,6 +47,7 @@ I enjoy understanding how systems work under the hood and building tools that au
 Outside of automation engineering, I spend time exploring simulation game design, sandbox systems, and technical projects that experiment with how small rules can produce complex outcomes.
 
 I'm especially interested in projects that combine engineering, automation, and creative system design.
+
 ---
 
 📍 Moreno Valley, CA  
