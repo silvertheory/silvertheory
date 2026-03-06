@@ -42,8 +42,11 @@ Training exercises demonstrating automation concepts using Selenium and Behave.
 
 ## 🎯 Interests
 
-Outside of automation, I'm interested in **simulation game systems, world-building, and automation tools that simplify complex tasks**.
+I enjoy understanding how systems work under the hood and building tools that automate repetitive problems.
 
+Outside of automation engineering, I spend time exploring simulation game design, sandbox systems, and technical projects that experiment with how small rules can produce complex outcomes.
+
+I'm especially interested in projects that combine engineering, automation, and creative system design.
 ---
 
 📍 Moreno Valley, CA  
