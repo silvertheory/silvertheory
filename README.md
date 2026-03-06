@@ -46,4 +46,4 @@ Outside of automation, I'm interested in **simulation game systems, world-buildi
 
 ---
 
-📍 Los Angeles, California
+📍 Moreno Valley, CA | Open to remote or relocation
