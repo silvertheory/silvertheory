@@ -1,8 +1,8 @@
 # Hi, I'm David Pacheco 👋
 
-QA Automation Engineer focused on building reliable test automation using **Python, Selenium, and PyTest**.
+QA Engineer focused on system-level validation, integration testing, and building reliable test automation using **Python, Selenium, and PyTest**.
 
-I enjoy designing automation that validates real user workflows, improves software quality, and reduces repetitive manual testing.
+I design automation that validates real-world user workflows, improves software quality, and reduces repetitive manual testing.
 
 ---
 
@@ -10,25 +10,25 @@ I enjoy designing automation that validates real user workflows, improves softwa
 
 - **Languages:** Python, Java  
 - **Automation:** Selenium WebDriver, PyTest, Behave (BDD)  
-- **Testing:** UI automation, functional testing, test validation  
+- **Testing:** System-level testing, integration testing, UI automation, functional testing, test validation  
 - **Tools:** Git, GitHub, ChromeDriver  
-- **Other Interests:** Simulation game systems and automation tooling
+- **Additional:** Troubleshooting, real-world system validation  
 
 ---
 
 ## 🚀 Featured Projects
 
 **ScrapHire**  
-Python + Selenium automation project that scrapes job listings, validates extracted data, and exports structured results to CSV.
+Python + Selenium automation project that extracts job listings, validates data accuracy, and exports structured results to CSV using automated checks.
 
 **SauceDemoProject**  
-Automated UI test suite validating login, product browsing, cart functionality, and checkout flows.
+Automated UI test suite validating login, product browsing, cart functionality, and checkout flows with end-to-end test coverage.
 
 **Careerist QA Internship Project**  
-Team-based QA project completed during automation training that simulates real testing workflows.
+Team-based QA project simulating real-world testing workflows, including defect tracking, test execution, and collaboration.
 
 **Careerist QA Coursework**  
-Training exercises demonstrating automation concepts using Selenium and Behave.
+Automation training exercises demonstrating Selenium-based frameworks and BDD testing with Behave.
 
 ---
 
@@ -36,19 +36,19 @@ Training exercises demonstrating automation concepts using Selenium and Behave.
 
 - Advanced Python automation patterns  
 - Test framework design  
-- API testing and automation
+- API testing and automation  
+- System-level and integration testing practices  
 
 ---
 
 ## 🎯 Interests
 
-I enjoy understanding how systems work under the hood and building tools that automate repetitive problems.
+I enjoy understanding how systems behave end-to-end and building tools that automate repetitive problems.
 
-Outside of automation engineering, I spend time exploring simulation game design, sandbox systems, and technical projects that experiment with how small rules can produce complex outcomes.
-
-I'm especially interested in projects that combine engineering, automation, and creative system design.
+I’m particularly interested in how structured systems and simple rules interact to produce complex outcomes, both in software and simulation environments.
 
 ---
 
 📍 Moreno Valley, CA  
-🌎 Open to remote, hybrid roles, and relocation
+🌎 Open to remote, hybrid roles, and relocation  
+🔗 [LinkedIn](https://linkedin.com/in/david-m-pacheco-506b212a9)
