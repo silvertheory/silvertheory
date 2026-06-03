@@ -1,54 +1,202 @@
 # Hi, I'm David Pacheco 👋
 
-QA Engineer focused on system-level validation, integration testing, and building reliable test automation using **Python, Selenium, and PyTest**.
+## QA Automation Engineer
 
-I design automation that validates real-world user workflows, improves software quality, and reduces repetitive manual testing.
+Focused on building reliable automation frameworks, validating real-world business workflows, and improving software quality through structured testing and system-level validation.
 
----
+I work primarily with **Python, Selenium, PyTest, and Behave**, while expanding into **Playwright, API automation, CI/CD workflows, and advanced framework design**.
 
-## 🔧 Technical Skills
-
-- **Languages:** Python, Java  
-- **Automation:** Selenium WebDriver, PyTest, Behave (BDD)  
-- **Testing:** System-level testing, integration testing, UI automation, functional testing, test validation  
-- **Tools:** Git, GitHub, ChromeDriver  
-- **Additional:** Troubleshooting, real-world system validation  
+My background combines QA automation training, technical troubleshooting, logistics operations, and workflow analysis, giving me a strong systems-oriented approach to software testing and validation.
 
 ---
 
-## 🚀 Featured Projects
+# 🔧 Technical Skills
 
-**ScrapHire**  
-Python + Selenium automation project that extracts job listings, validates data accuracy, and exports structured results to CSV using automated checks.
+## Languages
 
-**SauceDemoProject**  
-Automated UI test suite validating login, product browsing, cart functionality, and checkout flows with end-to-end test coverage.
+* Python
+* Java
 
-**Careerist QA Internship Project**  
-Team-based QA project simulating real-world testing workflows, including defect tracking, test execution, and collaboration.
+## Automation & Testing
 
-**Careerist QA Coursework**  
-Automation training exercises demonstrating Selenium-based frameworks and BDD testing with Behave.
+* Selenium WebDriver
+* PyTest
+* Behave (BDD)
+* Page Object Model (POM)
+* UI Automation
+* Functional Testing
+* Regression Testing
+* Integration Testing
+* System-Level Validation
+
+## Currently Expanding
+
+* Playwright
+* API Testing & Automation
+* GitHub Actions / CI Workflows
+* Advanced Automation Framework Design
+
+## Tools & Platforms
+
+* Git
+* GitHub
+* Chrome DevTools
+* ChromeDriver
+* Jira-style Defect Tracking
+
+## Additional Strengths
+
+* Troubleshooting & Root Cause Analysis
+* Workflow Validation
+* Documentation & Reporting
+* Real-World Systems Analysis
+* Operations & Logistics Process Knowledge
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Featured Projects
 
-- Advanced Python automation patterns  
-- Test framework design  
-- API testing and automation  
-- System-level and integration testing practices  
+## ScrapHire
+
+Python automation project that extracts job listing data, validates output accuracy, and exports structured results to CSV using automated validation checks.
+
+### Focus Areas
+
+* Python Automation
+* Selenium
+* BeautifulSoup
+* Data Validation
+* CSV Reporting
+* Automated Checks
 
 ---
 
-## 🎯 Interests
+## SauceDemoProject
 
-I enjoy understanding how systems behave end-to-end and building tools that automate repetitive problems.
+Automated UI testing suite for an e-commerce demo application, validating login workflows, product browsing, cart functionality, and checkout behavior.
 
-I’m particularly interested in how structured systems and simple rules interact to produce complex outcomes, both in software and simulation environments.
+### Focus Areas
+
+* Selenium WebDriver
+* Behave BDD
+* End-to-End UI Testing
+* Functional Validation
+* Automation Framework Structure
 
 ---
 
-📍 Moreno Valley, CA  
-🌎 Open to remote, hybrid roles, and relocation  
+## Upcoming: Logistics API Automation Suite
+
+Backend/API automation project focused on validating logistics and transportation workflows, including route management, status updates, response validation, and business rule testing.
+
+### Planned Focus Areas
+
+* Python
+* PyTest
+* Requests
+* API Automation
+* Schema Validation
+* Negative Testing
+* Business Rule Validation
+* Test Documentation
+
+---
+
+## Upcoming: Transportation Operations Analytics Dashboard
+
+Operations-focused analytics dashboard project designed to track route performance, delays, backhaul revenue, and workflow efficiency using structured operational data.
+
+### Planned Focus Areas
+
+* Operations Analytics
+* Logistics Workflows
+* Dashboard Design
+* Data Validation
+* Reporting
+* SQL & Data Analysis
+* Business Metrics
+
+---
+
+## Upcoming: Playwright Appointment Scheduler Suite
+
+Modern Playwright-based automation framework validating scheduling workflows, appointment management, and user interactions across browser environments.
+
+### Planned Focus Areas
+
+* Playwright
+* TypeScript
+* Cross-Browser Testing
+* Regression Automation
+* GitHub Actions
+* Test Reporting
+* Screenshots & Failure Capture
+
+---
+
+## Upcoming: Selenium Logistics Workflow Automation Framework
+
+Selenium-based automation framework focused on validating logistics workflows, route assignments, operational forms, and transportation management processes.
+
+### Planned Focus Areas
+
+* Selenium
+* Python
+* PyTest
+* Page Object Model
+* Workflow Validation
+* Data Integrity Testing
+* Regression Automation
+
+---
+
+# 📚 QA Documentation & Testing Practices
+
+My portfolio focuses on both automation engineering and core QA practices, including:
+
+* Test Case Design
+* Bug Reporting
+* Regression Testing
+* Requirements Validation
+* Test Summary Reporting
+* Manual & Automated Test Coverage
+* UI & API Validation
+* Business Rule Testing
+
+---
+
+# 🌱 Currently Learning
+
+* Playwright Automation
+* API Testing with Python
+* GitHub Actions & CI/CD Pipelines
+* Advanced PyTest Patterns
+* Test Framework Architecture
+* Automation Reporting & Execution Workflows
+
+---
+
+# 🎯 Professional Focus
+
+I enjoy understanding how systems behave end-to-end, identifying workflow failure points, and building automation that helps teams detect issues earlier and improve software reliability.
+
+My long-term focus is centered around:
+
+* QA Automation Engineering
+* Technical Testing
+* System-Level Validation
+* Workflow & Operations Testing
+* Software Reliability Engineering
+
+---
+
+# 📍 Location & Availability
+
+📍 Moreno Valley, CA
+🌎 Open to Remote, Hybrid, and Relocation Opportunities
+
 🔗 [LinkedIn](https://linkedin.com/in/david-m-pacheco-506b212a9)
+
+---
+
+
