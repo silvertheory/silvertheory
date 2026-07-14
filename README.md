@@ -1,56 +1,128 @@
 # Hi, I'm David Pacheco 👋
 
-## QA Automation Engineer
+## Operations, Data & Automation Professional
 
-Focused on building reliable automation frameworks, validating real-world business workflows, and improving software quality through structured testing and system-level validation.
+I am an operations and technical professional with experience in transportation supervision, multi-state dispatch, field technical support, troubleshooting, workflow analysis, and software automation.
 
-I work primarily with **Python, Selenium, PyTest, and Behave**, while expanding into **Playwright, API automation, CI/CD workflows, and advanced framework design**.
+My background includes managing transportation operations, supporting nearly 60 drivers, improving backhaul processes, troubleshooting statewide technical systems, and building automation projects with Python, APIs, Selenium, PyTest, Git, and GitHub.
 
-My background combines QA automation training, technical troubleshooting, logistics operations, and workflow analysis, giving me a strong systems-oriented approach to software testing and validation.
+I am currently developing projects that connect:
+
+- Logistics and transportation operations
+- Data analysis and operational reporting
+- Workflow automation
+- Technical support and systems troubleshooting
+- Identity and Access Management
+- Privileged Access Management
+- Security and identity automation
+
+My goal is to use operations knowledge, data, systems thinking, and automation to improve how organizations manage workflows, information, access, and technical processes.
 
 ---
 
-# 🔧 Technical Skills
+# 🧭 Current Career Direction
 
-## Languages
+I am currently targeting opportunities in:
 
-* Python
-* Java
+- Logistics and Dispatch Coordination
+- Transportation and Operations Analysis
+- Technical and Application Support
+- Business Systems Support
+- Identity and Access Management
+- Access Provisioning and Identity Operations
+- Junior Privileged Access Management
 
-## Automation & Testing
+My longer-term technical direction is focused on identity security, PAM, workflow automation, secrets management, and security automation.
 
-* Selenium WebDriver
-* PyTest
-* Behave (BDD)
-* Page Object Model (POM)
-* UI Automation
-* Functional Testing
-* Regression Testing
-* Integration Testing
-* System-Level Validation
+---
 
-## Currently Expanding
+# 🛠️ Core Skills
 
-* Playwright
-* API Testing & Automation
-* GitHub Actions / CI Workflows
-* Advanced Automation Framework Design
+## Operations & Logistics
 
-## Tools & Platforms
+- Transportation Operations
+- Dispatch and Routing
+- Driver Support and Scheduling
+- Backhaul Coordination
+- Fleet Monitoring
+- Delivery and Route Documentation
+- Process Improvement
+- Operational Problem Solving
+- Multi-State Transportation Coordination
 
-* Git
-* GitHub
-* Chrome DevTools
-* ChromeDriver
-* Jira-style Defect Tracking
+## Data & Analysis
 
-## Additional Strengths
+- Operational Data Validation
+- Business Metrics
+- Root Cause Analysis
+- Requirements and Business Rules
+- CSV Data Processing
+- Reporting and Documentation
+- Process Mapping
+- Workflow Analysis
 
-* Troubleshooting & Root Cause Analysis
-* Workflow Validation
-* Documentation & Reporting
-* Real-World Systems Analysis
-* Operations & Logistics Process Knowledge
+## Automation & Programming
+
+- Python
+- Java
+- Selenium WebDriver
+- PyTest
+- Behave BDD
+- BeautifulSoup
+- REST API Testing
+- JSON Validation
+- Page Object Model
+- Git and GitHub
+
+## Technical Support
+
+- Hardware and Software Troubleshooting
+- Connectivity Diagnosis
+- Software Installation and Configuration
+- Security Patching
+- Incident Documentation
+- Technical Root Cause Analysis
+- End-User Training
+- Field Systems Support
+
+---
+
+# 🔐 Identity & Security Development
+
+I am currently developing skills in:
+
+- Identity and Access Management
+- Privileged Access Management
+- Active Directory
+- Microsoft Entra ID
+- User and Group Administration
+- Joiner, Mover, and Leaver Workflows
+- Role-Based Access Control
+- Multifactor Authentication
+- Single Sign-On
+- Conditional Access
+- Identity Governance
+- Access Reviews
+- PowerShell
+- Microsoft Graph
+- Service and Privileged Accounts
+
+These are active learning areas and will be added to projects as I gain hands-on experience.
+
+---
+
+# 📊 Data & Analytics Development
+
+Current areas of study include:
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Operational Dashboards
+- Transportation Metrics
+- Route Performance Analysis
+- Delay and Exception Reporting
+- Backhaul Revenue Analysis
 
 ---
 
@@ -58,145 +130,203 @@ My background combines QA automation training, technical troubleshooting, logist
 
 ## ScrapHire
 
-Python automation project that extracts job listing data, validates output accuracy, and exports structured results to CSV using automated validation checks.
+Python automation project that extracts job-listing data, validates output accuracy, and exports structured results to CSV.
 
-### Focus Areas
+### Technologies and Focus Areas
 
-* Python Automation
-* Selenium
-* BeautifulSoup
-* Data Validation
-* CSV Reporting
-* Automated Checks
-
----
-
-## SauceDemoProject
-
-Automated UI testing suite for an e-commerce demo application, validating login workflows, product browsing, cart functionality, and checkout behavior.
-
-### Focus Areas
-
-* Selenium WebDriver
-* Behave BDD
-* End-to-End UI Testing
-* Functional Validation
-* Automation Framework Structure
+- Python
+- Selenium
+- BeautifulSoup
+- Data Extraction
+- Data Validation
+- CSV Reporting
+- Automated Checks
+- Error Handling
 
 ---
 
-## Upcoming: Logistics API Automation Suite
+## SauceDemo Automation Project
 
-Backend/API automation project focused on validating logistics and transportation workflows, including route management, status updates, response validation, and business rule testing.
+Automated testing framework for an e-commerce demonstration application.
+
+The project validates login, product selection, cart management, checkout, and other end-to-end user workflows.
+
+### Technologies and Focus Areas
+
+- Python
+- Selenium WebDriver
+- Behave BDD
+- Page Object Model
+- Functional Validation
+- Regression Testing
+- End-to-End Automation
+- Framework Organization
+
+---
+
+# 🏗️ Projects in Development
+
+## Transportation Operations Analytics Dashboard
+
+A logistics-focused dashboard designed to analyze:
+
+- Route performance
+- Delivery delays
+- Backhaul revenue
+- Driver and fleet metrics
+- Operational exceptions
+- Workflow efficiency
+
+### Planned Technologies
+
+- Excel
+- SQL
+- Power BI
+- Python
+- Structured Operational Data
+- Dashboard Reporting
+
+---
+
+## Logistics API Automation Suite
+
+An API project designed to model and validate transportation workflows such as:
+
+- Route creation
+- Driver assignments
+- Delivery-status updates
+- Exception handling
+- Backhaul tracking
+- Business-rule enforcement
+
+### Planned Technologies
+
+- Python
+- PyTest
+- Requests
+- REST APIs
+- JSON Schema Validation
+- Negative Testing
+- Business Rules
+- Automated Reporting
+
+---
+
+## Identity Lifecycle Automation Lab
+
+A planned identity-security project focused on automating employee access throughout the joiner, mover, and leaver lifecycle.
+
+### Planned Capabilities
+
+- Create and disable user accounts
+- Assign access based on job role
+- Add and remove group memberships
+- Track approvals
+- Detect excessive access
+- Manage temporary elevated access
+- Produce access-review reports
+- Log successful and failed identity changes
+
+### Planned Technologies
+
+- Active Directory
+- Microsoft Entra ID
+- PowerShell
+- Microsoft Graph
+- Python
+- Role-Based Access Control
+- Identity Governance
+
+---
+
+## Privileged Access Management Lab
+
+A planned lab focused on privileged accounts, service accounts, credential security, and controlled administrative access.
 
 ### Planned Focus Areas
 
-* Python
-* PyTest
-* Requests
-* API Automation
-* Schema Validation
-* Negative Testing
-* Business Rule Validation
-* Test Documentation
+- Privileged account inventory
+- Administrator access approval
+- Temporary elevated access
+- Service-account management
+- Password and credential rotation
+- Access expiration
+- Audit logging
+- Privileged-session concepts
+- Secrets-management fundamentals
 
 ---
 
-## Upcoming: Transportation Operations Analytics Dashboard
+# 🧪 Software Quality & Validation Background
 
-Operations-focused analytics dashboard project designed to track route performance, delays, backhaul revenue, and workflow efficiency using structured operational data.
+Software testing remains part of my technical foundation rather than my sole career focus.
 
-### Planned Focus Areas
+My experience includes:
 
-* Operations Analytics
-* Logistics Workflows
-* Dashboard Design
-* Data Validation
-* Reporting
-* SQL & Data Analysis
-* Business Metrics
+- Manual and Automated Testing
+- Functional and Regression Testing
+- API Validation
+- Test Case Design
+- Defect Documentation
+- Requirements Validation
+- Workflow Testing
+- Business-Rule Validation
+- Data-Integrity Checks
+- Root Cause Analysis
 
----
-
-## Upcoming: Playwright Appointment Scheduler Suite
-
-Modern Playwright-based automation framework validating scheduling workflows, appointment management, and user interactions across browser environments.
-
-### Planned Focus Areas
-
-* Playwright
-* TypeScript
-* Cross-Browser Testing
-* Regression Automation
-* GitHub Actions
-* Test Reporting
-* Screenshots & Failure Capture
+These skills support my work in operations analysis, automation, technical support, and identity-security validation.
 
 ---
 
-## Upcoming: Selenium Logistics Workflow Automation Framework
+# 📚 Currently Learning
 
-Selenium-based automation framework focused on validating logistics workflows, route assignments, operational forms, and transportation management processes.
-
-### Planned Focus Areas
-
-* Selenium
-* Python
-* PyTest
-* Page Object Model
-* Workflow Validation
-* Data Integrity Testing
-* Regression Automation
-
----
-
-# 📚 QA Documentation & Testing Practices
-
-My portfolio focuses on both automation engineering and core QA practices, including:
-
-* Test Case Design
-* Bug Reporting
-* Regression Testing
-* Requirements Validation
-* Test Summary Reporting
-* Manual & Automated Test Coverage
-* UI & API Validation
-* Business Rule Testing
+- SQL and Relational Data
+- Power BI and Operational Dashboards
+- Advanced Excel
+- Active Directory
+- Microsoft Entra ID
+- PowerShell
+- Microsoft SC-300 Content
+- IAM and PAM Fundamentals
+- Microsoft Graph and REST APIs
+- Identity Lifecycle Automation
+- Cybersecurity Fundamentals
 
 ---
 
-# 🌱 Currently Learning
+# 🧠 Professional Background
 
-* Playwright Automation
-* API Testing with Python
-* GitHub Actions & CI/CD Pipelines
-* Advanced PyTest Patterns
-* Test Framework Architecture
-* Automation Reporting & Execution Workflows
+Before beginning my technical project work, I spent nearly six years at McLane in transportation operations.
+
+I progressed from transportation data processing and dispatch support into a Transportation Supervisor position. My responsibilities included routing, dispatching, driver support, payroll coordination, compliance, fleet monitoring, backhaul management, and operational troubleshooting.
+
+I designed and implemented a backhaul process that increased annual distribution-center backhaul revenue from approximately $500,000 to more than $2 million.
+
+I later worked for Intralot, providing statewide field and technical support for lottery terminals, Keno systems, and related equipment across New Hampshire. This work included hardware and software troubleshooting, connectivity diagnosis, updates, security patches, documentation, and coordination with retailers and state lottery personnel.
 
 ---
 
-# 🎯 Professional Focus
+# 🎯 Long-Term Focus
 
-I enjoy understanding how systems behave end-to-end, identifying workflow failure points, and building automation that helps teams detect issues earlier and improve software reliability.
+I am interested in roles and projects that combine:
 
-My long-term focus is centered around:
+- Operations
+- Logistics
+- Data
+- Technical Systems
+- Automation
+- Identity Security
+- Process Improvement
 
-* QA Automation Engineering
-* Technical Testing
-* System-Level Validation
-* Workflow & Operations Testing
-* Software Reliability Engineering
+My long-term goal is to progress toward identity automation, privileged access management, security automation, and systems-driven operational improvement.
 
 ---
 
 # 📍 Location & Availability
 
-📍 Moreno Valley, CA
-🌎 Open to Remote, Hybrid, and Relocation Opportunities
+📍 Moreno Valley, California  
+🌎 Open to Remote, Hybrid, On-Site, and Relocation Opportunities
 
 🔗 [LinkedIn](https://linkedin.com/in/david-m-pacheco-506b212a9)
-
----
-
+-
 
